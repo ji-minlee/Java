@@ -1,2 +1,2 @@
 # Java
-Learning Java at kopo
+자바 강의 
